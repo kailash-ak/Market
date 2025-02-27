@@ -1,7 +1,7 @@
 # Market-Research
 # Overview
 
-The Market Research AI Agent is an AI-powered tool that automates competitive analysis and industry insights. It extracts market data from web sources, processes it using natural language models, and generates structured research reports.
+The Market Research AI Agent is an basic AI-powered tool that automates competitive analysis and industry insights. It extracts market data from web sources, processes it using natural language models, and generates structured research reports.
 
 # Features
 
@@ -80,8 +80,6 @@ A structured market research report will be displayed.
 ├── 📜 README.md             # Project documentation
 
 # Future Enhancements
-
-Sentiment Analysis for extracted data.
 
 Dashboard for visualizing market trends.
 
